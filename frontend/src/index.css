@@ -1,0 +1,10 @@
+/* src/index.css */
+@import url("https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wght@0,200..900;1,200..900&display=swap");
+@import "tailwindcss";
+
+html,
+body {
+    font-family: "Mona Sans", sans-serif;
+    overflow: hidden;
+    height: 100%;
+}

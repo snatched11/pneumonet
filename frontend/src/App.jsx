@@ -9,7 +9,7 @@ const App = () => {
     return (
         <div
             className="min-h-screen bg-cover bg-center font-mona"
-            style={{ backgroundImage: `url(/background.jpg)` }}
+            style={{ backgroundImage: `url(/new-bg.jpg)` }}
         >
             {/* Overlay */}
             <div className="absolute inset-0 z-0" />
